@@ -6,9 +6,11 @@
 }
 
 h1 {
+    text-transform: uppercase;
     text-align: center;
     font-size: 50px;
 }
+
 
 img{
    width:800px;
@@ -20,4 +22,11 @@ img{
 
 .center{
     text-align: center;
+}
+
+.note{
+    font-size:15px;
+}
+#description{
+    font-size: 24px;
 }
